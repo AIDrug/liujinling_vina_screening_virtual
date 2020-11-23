@@ -11,7 +11,9 @@ help 目录需要创建两个文件夹 ***input***文件夹 放置未转换的mo
 需要Open Babel环境
 
 Open Babel 用法 *http://openbabel.org/wiki/Main_Page*  
+
 脚本用法： ***./mol2-pdbqt.sh***  
+
 如果提示权限不够 可使用 ***chmod + x mol2-pdbqt.sh***
   
 * 2.虚拟筛选脚本
