@@ -28,6 +28,8 @@ help 目录需要创建两个文件夹 ***output***文件夹***out***文件夹 �
 help 目录需要放置***log***文件，log文件为vina输出日志 ***log.txt***为分析完的输出文件
 
 打开日志***log.txt***   
+需要python环境 python >= 3.0
+ 
 先输出虚拟筛选结果auto-dock-vina-score-result
 
 输出虚拟筛选得分小于-8kcal/mol的分子名及结果
