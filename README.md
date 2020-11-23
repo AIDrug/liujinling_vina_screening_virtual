@@ -1,6 +1,6 @@
 # vina_screening_virtual
 
-## 虚拟筛选及分析脚本。
+## 虚拟筛选及分析脚本
 
 ### 将分子文件转化为vina可以识别的***pdbqt***文件
 
