@@ -28,6 +28,6 @@ help 目录需要放置***log***文件，log文件为vina输出日志 ***log.txt
 打开日志***log.txt***  
 先输出虚拟筛选结果auto-dock-vina-score-result
 
-输出虚拟筛选得分小于-10kcal/mol的分子名及结果
+输出虚拟筛选得分小于-8kcal/mol的分子名及结果
 
 输出排序后的虚拟筛选结果得分小于-10kcal/mol的分子名
