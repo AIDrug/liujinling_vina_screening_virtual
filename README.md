@@ -2,7 +2,7 @@
 
 ## 虚拟筛选及分析脚本。
 
-* ###将分子文件转化为vina可以识别的***pdbqt***文件
+###将分子文件转化为vina可以识别的***pdbqt***文件
 
 help 目录需要创建两个文件夹 ***input***文件夹 放置未转换的mol2格式文件
 
@@ -16,7 +16,7 @@ Open Babel 用法 *http://openbabel.org/wiki/Main_Page*
 
 如果提示权限不够 可使用 ***chmod + x mol2-pdbqt.sh***
   
-* ###虚拟筛选脚本
+###虚拟筛选脚本
 
 help 目录需要创建两个文件夹 ***output***文件夹***out***文件夹 用于放置转换完的pdbqt格式文件out文件夹为结果输出文件  
 
@@ -26,7 +26,7 @@ help 目录需要创建两个文件夹 ***output***文件夹***out***文件夹 �
 
 同时输出到屏幕和文件 ***./vina_screen_virtual.sh 2>&1 |tee log*** (log文件为日志名)
   
-* ###对接完日志分析脚本  
+###对接完日志分析脚本  
 
 help 目录需要放置***log***文件，log文件为vina输出日志 ***log.txt***为分析完的输出文件
 
