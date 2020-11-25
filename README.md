@@ -1,8 +1,10 @@
 # vina_screening_virtual
-### Latest modified time: October 18, 2020
+
 ### Author:  陆根 刘金玲
 
 ## 虚拟筛选及分析脚本
+
+### Latest modified time: October 18, 2020
 
 ### 将分子文件转化为vina可以识别的***pdbqt***文件
 
