@@ -1,4 +1,6 @@
 # vina_screening_virtual
+# Latest modified time: October 18, 2020
+# Author:  陆根 刘金玲
 
 ## 虚拟筛选及分析脚本
 
